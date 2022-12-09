@@ -1,0 +1,49 @@
+[06-Aug-2022 17:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\creditscores() in /home/phpapplordco/public_html/fna/app/Cpb.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna/app/Cpb.php on line 4
+[19-Sep-2022 20:18:37 UTC] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 9
+[19-Sep-2022 20:18:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'bzFHV05zT2dscnFPaWtvVnZpUjh3MzVKaDlqSEhNdU12azZPZTQ2V09lN28zTkVZRmxvMWVZa0Y0bTh6OXo3MFg0c3FZd2NnSWdwNmZDajZxOEpuY2xCbkNNTVJtZFpuNy9KblZkN1pjR0pzVE5VU0hFeWc3RXZzblR2WWorQjdnelB3a3RuUmY1RlJmeU5pYXNLSUlRbWtwQmVNelh4UXBJa2RtTkdSbXEreEdmNDAveHA5U2s2WjFxS3BidjBvWmhyVkQzU1lYVE5ZcXhuckNzdnY2cXRhN0Y1d2xRUjNLMkR5L0hQdFZ1Y1Q5cWJuWCtZTE10UVErcEFsMTdTV09VK3JJNlVXNzlVOS9Ha2svUVFHZEkxWmRwem55SXlGbzZOM3NiTXRDVXBQSkQxdnlEUU5YVFlHUVM5Z1NaMzdvQmVkeFFvNzlvUmhGeDhZZCt6WUlMbkJib05rWDhlTDE5OXVvK2d1TloweXh4QS9CdEMrQ0Nwa04xRVVQWUFIL2xFZythRmJlc1NMMkI0N1p3dXl6WEt6c1d0RW4vZ0hHeUkyTmRrVytReDRnakdpN2lqM25mdXZ0R3dZekY3RnMwdEN4NTAydWcvcE9mcDFmeWYzM042QnhSUXJnaTY2NkdHUm51K1M5VUlaSTQ3RnY4emc1RXRKSjlKZzArY0NmOWs2ZGgyL01MMDNudmc1cTRqYWRwWVRyWnMxcFhYbmhvbjF2SGVvMmhUcmxOaDZoUU9DRWZoZWl3WlZXTjlnTDV5b2M0QkZmekZBUHNJeHNWSXM4QU1XUkd2UnBUMkdRSWx3eTBNRmhjNzlnZnZZOXdJZ1FtbERhSU8vZnRPUVNOZURncFV5S3VzUjZvUmV6dHJSbi95ZWdjTHlYMXNjL0J6WnRSdFZRVWZObm5XNXB5U21OK3RnMzlLT0F1SHNYZGtyajI1Y0VaOEFMS0FjVnJ2N0ppeUhUL3Fiek1UZHhwL0xr in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 15
+[19-Sep-2022 20:19:04 UTC] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 9
+[19-Sep-2022 20:19:04 UTC] PHP Warning:  Use of undefined constant bzFHV05zT2dscnFPaWtvVnZpUjh3MzVKaDlqSEhNdU12azZPZTQ2V09lN28zTkVZRmxvMWVZa0Y0bTh6OXo3MFg0c3FZd2NnSWdwNmZDajZxOEpuY2xCbkNNTVJtZFpuNy9KblZkN1pjR0pzVE5VU0hFeWc3RXZzblR2WWorQjdnelB3a3RuUmY1RlJmeU5pYXNLSUlRbWtwQmVNelh4UXBJa2RtTkdSbXEreEdmNDAveHA5U2s2WjFxS3BidjBvWmhyVkQzU1lYVE5ZcXhuckNzdnY2cXRhN0Y1d2xRUjNLMkR5L0hQdFZ1Y1Q5cWJuWCtZTE10UVErcEFsMTdTV09VK3JJNlVXNzlVOS9Ha2svUVFHZEkxWmRwem55SXlGbzZOM3NiTXRDVXBQSkQxdnlEUU5YVFlHUVM5Z1NaMzdvQmVkeFFvNzlvUmhGeDhZZCt6WUlMbkJib05rWDhlTDE5OXVvK2d1TloweXh4QS9CdEMrQ0Nwa04xRVVQWUFIL2xFZythRmJlc1NMMkI0N1p3dXl6WEt6c1d0RW4vZ0hHeUkyTmRrVytReDRnakdpN2lqM25mdXZ0R3dZekY3RnMwdEN4NTAydWcvcE9mcDFmeWYzM042QnhSUXJnaTY2NkdHUm51K1M5VUlaSTQ3RnY4emc1RXRKSjlKZzArY0NmOWs2ZGgyL01MMDNudmc1cTRqYWRwWVRyWnMxcFhYbmhvbjF2SGVvMmhUcmxOaDZoUU9DRWZoZWl3WlZXTjlnTDV5b2M0QkZmekZBUHNJeHNWSXM4QU1XUkd2UnBUMkdRSWx3eTBNRmhjNzlnZnZZOXdJZ1FtbERhSU8vZnRPUVNOZURncFV5S3VzUjZvUmV6dHJSbi95ZWdjTHlYMXNjL0J6WnRSdFZRVWZObm5XNXB5U21OK3RnMzlLT0F1SHNYZGtyajI1Y0VaOEFMS0FjVnJ2N0ppeUhUL3Fiek1UZHhwL0xrSTFRQlE3S0 in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 15
+[19-Sep-2022 20:19:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http_build_params() in /home/phpapplordco/public_html/fna2/app/cpb2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 36
+[19-Sep-2022 20:21:14 UTC] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 9
+[19-Sep-2022 20:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http_build_params() in /home/phpapplordco/public_html/fna2/app/cpb2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 36
+[19-Sep-2022 20:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Http' not found in /home/phpapplordco/public_html/fna2/app/cpb2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 2
+[19-Sep-2022 20:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Http' not found in /home/phpapplordco/public_html/fna2/app/cpb2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 4
+[19-Sep-2022 20:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\creditscores() in /home/phpapplordco/public_html/fna2/app/cpb2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 5
+[19-Sep-2022 20:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\creditscores() in /home/phpapplordco/public_html/fna2/app/cpb2.php:15
+Stack trace:
+#0 /home/phpapplordco/public_html/fna2/app/cpb2.php(6): App\Cpb->__construct()
+#1 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 15
+[19-Sep-2022 20:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Http' not found in /home/phpapplordco/public_html/fna2/app/cpb2.php:20
+Stack trace:
+#0 /home/phpapplordco/public_html/fna2/app/cpb2.php(7): App\Cpb->getToken()
+#1 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 20
+[19-Sep-2022 20:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Http' not found in /home/phpapplordco/public_html/fna2/app/cpb2.php:20
+Stack trace:
+#0 /home/phpapplordco/public_html/fna2/app/cpb2.php(7): Cpb->getToken()
+#1 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 20
+[19-Sep-2022 20:47:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Http' not found in /home/phpapplordco/public_html/fna2/app/cpb2.php:20
+Stack trace:
+#0 /home/phpapplordco/public_html/fna2/app/cpb2.php(7): Cpb->getToken()
+#1 {main}
+  thrown in /home/phpapplordco/public_html/fna2/app/cpb2.php on line 20
